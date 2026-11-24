@@ -1,0 +1,8 @@
+.swiper-button-next svg,
+.swiper-button-prev svg {
+  width: 23px;
+  height: 23px;
+  fill: #0f172a;
+  color: white;
+  margin: 0;
+}
